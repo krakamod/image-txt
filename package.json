@@ -1,0 +1,11 @@
+{
+  "name": "image-txt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:krakamod/image-txt.git",
+  "author": "Artem Balamutyuk <artyom.balamutyuk1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  }
+}
